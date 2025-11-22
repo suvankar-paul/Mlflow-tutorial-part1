@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/546147609788224693/fc02ced26acb4f37868dbfe6528364e4/artifacts
+end_time: 1763841199684
+entry_point_name: ''
+experiment_id: '546147609788224693'
+lifecycle_stage: active
+run_id: fc02ced26acb4f37868dbfe6528364e4
+run_name: whimsical-eel-662
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763841192403
+status: 3
+tags: []
+user_id: suvan

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/4f2bb10001ce478fbc2b12919c2c6f71/artifacts
+end_time: 1763805585364
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4f2bb10001ce478fbc2b12919c2c6f71
+run_name: resilient-snail-428
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763805584175
+status: 3
+tags: []
+user_id: suvan

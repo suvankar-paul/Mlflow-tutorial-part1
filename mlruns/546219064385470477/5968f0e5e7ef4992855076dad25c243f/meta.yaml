@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/546219064385470477/5968f0e5e7ef4992855076dad25c243f/artifacts
+end_time: 1763841244332
+entry_point_name: ''
+experiment_id: '546219064385470477'
+lifecycle_stage: active
+run_id: 5968f0e5e7ef4992855076dad25c243f
+run_name: loud-mole-217
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763841236982
+status: 3
+tags: []
+user_id: suvan

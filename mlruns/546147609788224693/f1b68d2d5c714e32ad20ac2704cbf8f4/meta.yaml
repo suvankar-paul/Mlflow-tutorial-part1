@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/546147609788224693/f1b68d2d5c714e32ad20ac2704cbf8f4/artifacts
+end_time: 1763837393684
+entry_point_name: ''
+experiment_id: '546147609788224693'
+lifecycle_stage: active
+run_id: f1b68d2d5c714e32ad20ac2704cbf8f4
+run_name: mysterious-mare-710
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763837379789
+status: 3
+tags: []
+user_id: suvan

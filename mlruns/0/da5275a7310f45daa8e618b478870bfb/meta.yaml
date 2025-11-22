@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/da5275a7310f45daa8e618b478870bfb/artifacts
+end_time: 1763804405233
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: da5275a7310f45daa8e618b478870bfb
+run_name: useful-horse-828
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763804405120
+status: 3
+tags: []
+user_id: suvan
