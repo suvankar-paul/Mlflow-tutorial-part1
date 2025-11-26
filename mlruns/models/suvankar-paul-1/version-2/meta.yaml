@@ -1,0 +1,15 @@
+creation_timestamp: 1763890719266
+current_stage: None
+deployment_job_state: null
+description: ''
+last_updated_timestamp: 1763890719266
+model_id: m-7dc5106ead91484298e6f6e11dfabd3c
+name: suvankar-paul-1
+run_id: 9a270f0112664895997a1558b04264f3
+run_link: ''
+source: models:/m-7dc5106ead91484298e6f6e11dfabd3c
+status: READY
+status_message: null
+storage_location: file:///C:/Users/suvan/OneDrive/Desktop/MLOps%20Playlist%20by%20Vikas%20Das/Mlflow-tutorial-part1/mlruns/495589917633079597/models/m-7dc5106ead91484298e6f6e11dfabd3c/artifacts
+user_id: null
+version: 2

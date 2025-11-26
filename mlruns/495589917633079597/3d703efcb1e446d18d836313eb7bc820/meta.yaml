@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/suvan/OneDrive/Desktop/MLOps%20Playlist%20by%20Vikas%20Das/Mlflow-tutorial-part1/mlruns/495589917633079597/3d703efcb1e446d18d836313eb7bc820/artifacts
+end_time: 1763890638452
+entry_point_name: ''
+experiment_id: '495589917633079597'
+lifecycle_stage: active
+run_id: 3d703efcb1e446d18d836313eb7bc820
+run_name: skillful-turtle-310
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763890638376
+status: 3
+tags: []
+user_id: suvan

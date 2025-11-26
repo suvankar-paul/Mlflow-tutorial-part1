@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/suvan/OneDrive/Desktop/MLOps%20Playlist%20by%20Vikas%20Das/Mlflow-tutorial-part1/mlruns/495589917633079597/edfb388e8c7246adae7aaca48998369c/artifacts
+end_time: 1763889342547
+entry_point_name: ''
+experiment_id: '495589917633079597'
+lifecycle_stage: active
+run_id: edfb388e8c7246adae7aaca48998369c
+run_name: orderly-vole-279
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763889342474
+status: 3
+tags: []
+user_id: suvan

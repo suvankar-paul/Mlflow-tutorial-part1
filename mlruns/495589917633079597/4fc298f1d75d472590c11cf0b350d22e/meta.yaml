@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/suvan/OneDrive/Desktop/MLOps%20Playlist%20by%20Vikas%20Das/Mlflow-tutorial-part1/mlruns/495589917633079597/4fc298f1d75d472590c11cf0b350d22e/artifacts
+end_time: 1763889342465
+entry_point_name: ''
+experiment_id: '495589917633079597'
+lifecycle_stage: active
+run_id: 4fc298f1d75d472590c11cf0b350d22e
+run_name: bustling-penguin-927
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763889342388
+status: 3
+tags: []
+user_id: suvan

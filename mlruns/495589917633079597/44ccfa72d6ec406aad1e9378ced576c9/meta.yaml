@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/suvan/OneDrive/Desktop/MLOps%20Playlist%20by%20Vikas%20Das/Mlflow-tutorial-part1/mlruns/495589917633079597/44ccfa72d6ec406aad1e9378ced576c9/artifacts
+end_time: 1763889342794
+entry_point_name: ''
+experiment_id: '495589917633079597'
+lifecycle_stage: active
+run_id: 44ccfa72d6ec406aad1e9378ced576c9
+run_name: invincible-moose-940
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763889342723
+status: 3
+tags: []
+user_id: suvan

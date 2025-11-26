@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/suvan/OneDrive/Desktop/MLOps%20Playlist%20by%20Vikas%20Das/Mlflow-tutorial-part1/mlruns/495589917633079597/7a8ca8942ae14788a3d04e99c65145dd/artifacts
+end_time: 1763889343287
+entry_point_name: ''
+experiment_id: '495589917633079597'
+lifecycle_stage: active
+run_id: 7a8ca8942ae14788a3d04e99c65145dd
+run_name: chill-crab-996
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763889343213
+status: 3
+tags: []
+user_id: suvan

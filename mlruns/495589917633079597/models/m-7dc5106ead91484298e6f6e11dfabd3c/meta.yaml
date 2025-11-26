@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/suvan/OneDrive/Desktop/MLOps%20Playlist%20by%20Vikas%20Das/Mlflow-tutorial-part1/mlruns/495589917633079597/models/m-7dc5106ead91484298e6f6e11dfabd3c/artifacts
+creation_timestamp: 1763890638563
+experiment_id: '495589917633079597'
+last_updated_timestamp: 1763890644640
+model_id: m-7dc5106ead91484298e6f6e11dfabd3c
+model_type: null
+name: random_forest
+source_run_id: 9a270f0112664895997a1558b04264f3
+status: 2
+status_message: null

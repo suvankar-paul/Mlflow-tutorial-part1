@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/suvan/OneDrive/Desktop/MLOps%20Playlist%20by%20Vikas%20Das/Mlflow-tutorial-part1/mlruns/495589917633079597/137b25d4dcd948e8bb4bb3e0d19c8130/artifacts
+end_time: 1763889342959
+entry_point_name: ''
+experiment_id: '495589917633079597'
+lifecycle_stage: active
+run_id: 137b25d4dcd948e8bb4bb3e0d19c8130
+run_name: omniscient-perch-820
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763889342885
+status: 3
+tags: []
+user_id: suvan

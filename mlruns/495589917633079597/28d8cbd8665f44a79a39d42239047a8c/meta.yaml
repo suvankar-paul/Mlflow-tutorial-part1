@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/suvan/OneDrive/Desktop/MLOps%20Playlist%20by%20Vikas%20Das/Mlflow-tutorial-part1/mlruns/495589917633079597/28d8cbd8665f44a79a39d42239047a8c/artifacts
+end_time: 1763889343041
+entry_point_name: ''
+experiment_id: '495589917633079597'
+lifecycle_stage: active
+run_id: 28d8cbd8665f44a79a39d42239047a8c
+run_name: nervous-lark-9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763889342967
+status: 3
+tags: []
+user_id: suvan

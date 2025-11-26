@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/suvan/OneDrive/Desktop/MLOps%20Playlist%20by%20Vikas%20Das/Mlflow-tutorial-part1/mlruns/495589917633079597/models/m-7dc5106ead91484298e6f6e11dfabd3c/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.3
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.0
+mlflow_version: 3.6.0
+model_id: m-7dc5106ead91484298e6f6e11dfabd3c
+model_size_bytes: 317818
+model_uuid: m-7dc5106ead91484298e6f6e11dfabd3c
+prompts: null
+run_id: 9a270f0112664895997a1558b04264f3
+utc_time_created: '2025-11-23 09:37:18.624333'

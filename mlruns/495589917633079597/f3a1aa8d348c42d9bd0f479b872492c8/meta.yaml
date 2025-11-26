@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/suvan/OneDrive/Desktop/MLOps%20Playlist%20by%20Vikas%20Das/Mlflow-tutorial-part1/mlruns/495589917633079597/f3a1aa8d348c42d9bd0f479b872492c8/artifacts
+end_time: 1763890638026
+entry_point_name: ''
+experiment_id: '495589917633079597'
+lifecycle_stage: active
+run_id: f3a1aa8d348c42d9bd0f479b872492c8
+run_name: aged-stork-550
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763890637950
+status: 3
+tags: []
+user_id: suvan

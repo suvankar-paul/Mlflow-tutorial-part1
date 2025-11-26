@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/suvan/OneDrive/Desktop/MLOps%20Playlist%20by%20Vikas%20Das/Mlflow-tutorial-part1/mlruns/495589917633079597/67a9c733a679456c908ef93ccbc83a49/artifacts
+end_time: 1763889342876
+entry_point_name: ''
+experiment_id: '495589917633079597'
+lifecycle_stage: active
+run_id: 67a9c733a679456c908ef93ccbc83a49
+run_name: polite-worm-701
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763889342803
+status: 3
+tags: []
+user_id: suvan

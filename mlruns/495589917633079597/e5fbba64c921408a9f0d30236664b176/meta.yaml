@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/suvan/OneDrive/Desktop/MLOps%20Playlist%20by%20Vikas%20Das/Mlflow-tutorial-part1/mlruns/495589917633079597/e5fbba64c921408a9f0d30236664b176/artifacts
+end_time: 1763889343204
+entry_point_name: ''
+experiment_id: '495589917633079597'
+lifecycle_stage: active
+run_id: e5fbba64c921408a9f0d30236664b176
+run_name: lyrical-bass-107
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763889343132
+status: 3
+tags: []
+user_id: suvan

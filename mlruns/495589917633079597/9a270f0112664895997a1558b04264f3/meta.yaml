@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/suvan/OneDrive/Desktop/MLOps%20Playlist%20by%20Vikas%20Das/Mlflow-tutorial-part1/mlruns/495589917633079597/9a270f0112664895997a1558b04264f3/artifacts
+end_time: 1763890644661
+entry_point_name: ''
+experiment_id: '495589917633079597'
+lifecycle_stage: active
+run_id: 9a270f0112664895997a1558b04264f3
+run_name: fortunate-wren-895
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763890635599
+status: 3
+tags: []
+user_id: suvan
